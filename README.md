@@ -156,15 +156,9 @@ This architecture is commonly used in:
 
 ---
 
-## 📄 Resume Description
-
-**Kubernetes Deployment of a Microservice on AWS EC2**  
-Designed and deployed a Dockerized FastAPI microservice on Kubernetes running on AWS EC2 (t3.small), implementing replica-based deployments and NodePort service exposure to enable scalable and highly available application delivery.
-
----
-
 ## 👤 Author
 
 **Vaibhav Sudrik**  
+Email: vaibhavsudrik2005@gmail.com
 Cloud Computing & DevOps Enthusiast  
 📍 Maharashtra, India
