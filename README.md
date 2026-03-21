@@ -160,5 +160,4 @@ This architecture is commonly used in:
 
 **Vaibhav Sudrik**  
 Email: vaibhavsudrik2005@gmail.com
-Cloud Computing & DevOps Enthusiast  
-📍 Maharashtra, India
+Cloud Computing & DevOps Enthusiast
